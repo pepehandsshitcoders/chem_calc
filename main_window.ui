@@ -1,0 +1,1952 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>554</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="windowTitle">
+   <string>Кем калк</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout_2">
+    <property name="spacing">
+     <number>10</number>
+    </property>
+    <property name="leftMargin">
+     <number>10</number>
+    </property>
+    <property name="topMargin">
+     <number>10</number>
+    </property>
+    <property name="rightMargin">
+     <number>10</number>
+    </property>
+    <property name="bottomMargin">
+     <number>10</number>
+    </property>
+    <item>
+     <layout class="QGridLayout" name="gridLayout">
+      <item row="0" column="8">
+       <widget class="QLabel" name="label_27">
+        <property name="text">
+         <string>VII</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="7" column="5">
+       <widget class="QPushButton" name="pushButton_42">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Zr</string>
+        </property>
+       </widget>
+      </item>
+      <item row="7" column="8">
+       <widget class="QPushButton" name="pushButton_45">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Tc</string>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="12">
+       <widget class="QPushButton" name="pushButton_21">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Ar</string>
+        </property>
+       </widget>
+      </item>
+      <item row="9" column="4">
+       <widget class="QLabel" name="label_2">
+        <property name="text">
+         <string>...</string>
+        </property>
+       </widget>
+      </item>
+      <item row="8" column="1">
+       <widget class="QLabel" name="label_17">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Fixed" vsizetype="Preferred">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="text">
+         <string>7</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="8">
+       <widget class="QPushButton" name="pushButton_27">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Mn</string>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="2">
+       <widget class="QPushButton" name="pushButton_13">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: salmon;
+border-style: solid;
+border-width: 1px;
+border-color: red;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Na</string>
+        </property>
+       </widget>
+      </item>
+      <item row="6" column="5">
+       <widget class="QPushButton" name="pushButton_34">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Ge</string>
+        </property>
+       </widget>
+      </item>
+      <item row="10" column="4">
+       <widget class="QPushButton" name="pushButton_68">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Tl</string>
+        </property>
+       </widget>
+      </item>
+      <item row="11" column="3">
+       <widget class="QPushButton" name="pushButton_75">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: salmon;
+border-style: solid;
+border-width: 1px;
+border-color: red;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Ra</string>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="0">
+       <widget class="QLabel" name="label_8">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Fixed" vsizetype="Preferred">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="text">
+         <string>3</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="9" column="7">
+       <widget class="QPushButton" name="pushButton_61">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>W</string>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="2">
+       <widget class="QPushButton" name="pushButton_4">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: salmon;
+border-style: solid;
+border-width: 1px;
+border-color: red;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Li</string>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="6">
+       <widget class="QPushButton" name="pushButton_25">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>V</string>
+        </property>
+       </widget>
+      </item>
+      <item row="8" column="2">
+       <widget class="QPushButton" name="pushButton_49">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Ag</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="1">
+       <widget class="QLabel" name="label_5">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Fixed" vsizetype="Preferred">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="text">
+         <string>1</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="12">
+       <widget class="QPushButton" name="pushButton_12">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Ne</string>
+        </property>
+       </widget>
+      </item>
+      <item row="11" column="1">
+       <widget class="QLabel" name="label_20">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Fixed" vsizetype="Preferred">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="text">
+         <string>10</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="7" column="9">
+       <widget class="QPushButton" name="pushButton_46">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Ru</string>
+        </property>
+       </widget>
+      </item>
+      <item row="6" column="4">
+       <widget class="QPushButton" name="pushButton_33">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Ga</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="12">
+       <widget class="QLabel" name="label_37">
+        <property name="text">
+         <string>а</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="7" column="1">
+       <widget class="QLabel" name="label_16">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Fixed" vsizetype="Preferred">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="text">
+         <string>6</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="1">
+       <widget class="QLabel" name="label_7">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Fixed" vsizetype="Preferred">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="text">
+         <string>2</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="9" column="5">
+       <widget class="QPushButton" name="pushButton_59">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Hf</string>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="5">
+       <widget class="QPushButton" name="pushButton_24">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Ti</string>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="5">
+       <widget class="QPushButton" name="pushButton_16">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Si</string>
+        </property>
+       </widget>
+      </item>
+      <item row="9" column="8">
+       <widget class="QPushButton" name="pushButton_62">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Re</string>
+        </property>
+       </widget>
+      </item>
+      <item row="9" column="2">
+       <widget class="QPushButton" name="pushButton_57">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: salmon;
+border-style: solid;
+border-width: 1px;
+border-color: red;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Cs</string>
+        </property>
+       </widget>
+      </item>
+      <item row="9" column="1">
+       <widget class="QLabel" name="label_18">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Fixed" vsizetype="Preferred">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="text">
+         <string>8</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="2">
+       <widget class="QPushButton" name="pushButton_20">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: salmon;
+border-style: solid;
+border-width: 1px;
+border-color: red;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>K</string>
+        </property>
+       </widget>
+      </item>
+      <item row="10" column="2">
+       <widget class="QPushButton" name="pushButton_66">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Au</string>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="8">
+       <widget class="QPushButton" name="pushButton_11">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>F</string>
+        </property>
+       </widget>
+      </item>
+      <item row="6" column="3">
+       <widget class="QPushButton" name="pushButton_32">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Zn</string>
+        </property>
+       </widget>
+      </item>
+      <item row="9" column="6">
+       <widget class="QPushButton" name="pushButton_60">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Ta</string>
+        </property>
+       </widget>
+      </item>
+      <item row="11" column="7">
+       <widget class="QPushButton" name="pushButton_78">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Sg</string>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="1">
+       <widget class="QLabel" name="label_9">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Fixed" vsizetype="Preferred">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="text">
+         <string>3</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="7" column="11">
+       <widget class="QPushButton" name="pushButton_48">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Pd</string>
+        </property>
+       </widget>
+      </item>
+      <item row="11" column="5">
+       <widget class="QPushButton" name="pushButton_76">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Rf</string>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="9">
+       <widget class="QPushButton" name="pushButton_28">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Fe</string>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="6">
+       <widget class="QPushButton" name="pushButton_17">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>P</string>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="3">
+       <widget class="QPushButton" name="pushButton_22">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: salmon;
+border-style: solid;
+border-width: 1px;
+border-color: red;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Ca</string>
+        </property>
+       </widget>
+      </item>
+      <item row="9" column="3">
+       <widget class="QPushButton" name="pushButton_58">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: salmon;
+border-style: solid;
+border-width: 1px;
+border-color: red;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Ba</string>
+        </property>
+       </widget>
+      </item>
+      <item row="10" column="8">
+       <widget class="QPushButton" name="pushButton_72">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>At</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="2">
+       <widget class="QPushButton" name="pushButton_3">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Minimum" vsizetype="Fixed">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="baseSize">
+         <size>
+          <width>0</width>
+          <height>0</height>
+         </size>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: salmon;
+border-style: solid;
+border-width: 1px;
+border-color: red;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>H</string>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="1">
+       <widget class="QLabel" name="label_11">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Fixed" vsizetype="Preferred">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="text">
+         <string>4</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="9" colspan="4">
+       <widget class="QLabel" name="label_28">
+        <property name="text">
+         <string>VIII</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="0">
+       <widget class="QLabel" name="label_6">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Fixed" vsizetype="Preferred">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="text">
+         <string>2</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="4">
+       <widget class="QPushButton" name="pushButton_15">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Al</string>
+        </property>
+       </widget>
+      </item>
+      <item row="8" column="12">
+       <widget class="QPushButton" name="pushButton_56">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Xe</string>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="4">
+       <widget class="QPushButton" name="pushButton_23">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Sc</string>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="5">
+       <widget class="QPushButton" name="pushButton_8">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>C</string>
+        </property>
+       </widget>
+      </item>
+      <item row="9" column="9">
+       <widget class="QPushButton" name="pushButton_63">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Os</string>
+        </property>
+       </widget>
+      </item>
+      <item row="11" column="9">
+       <widget class="QPushButton" name="pushButton_80">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Hs</string>
+        </property>
+       </widget>
+      </item>
+      <item row="11" column="4">
+       <widget class="QLabel" name="label_3">
+        <property name="text">
+         <string>...</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="4">
+       <widget class="QLabel" name="label_23">
+        <property name="text">
+         <string>III</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="11" column="10">
+       <widget class="QPushButton" name="pushButton_81">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Mt</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="12">
+       <widget class="QPushButton" name="pushButton_6">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: salmon;
+border-style: solid;
+border-width: 1px;
+border-color: red;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>He</string>
+        </property>
+       </widget>
+      </item>
+      <item row="6" column="12">
+       <widget class="QPushButton" name="pushButton_38">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Kr</string>
+        </property>
+       </widget>
+      </item>
+      <item row="6" column="6">
+       <widget class="QPushButton" name="pushButton_35">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>As</string>
+        </property>
+       </widget>
+      </item>
+      <item row="10" column="7">
+       <widget class="QPushButton" name="pushButton_71">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Po</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="9" colspan="3">
+       <widget class="QLabel" name="label_36">
+        <property name="text">
+         <string>б</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="5">
+       <widget class="QLabel" name="label_24">
+        <property name="text">
+         <string>IV</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="6" column="1">
+       <widget class="QLabel" name="label_12">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Fixed" vsizetype="Preferred">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="text">
+         <string>5</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="7" column="6">
+       <widget class="QPushButton" name="pushButton_43">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Nb</string>
+        </property>
+       </widget>
+      </item>
+      <item row="11" column="2">
+       <widget class="QPushButton" name="pushButton_74">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: salmon;
+border-style: solid;
+border-width: 1px;
+border-color: red;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Fr</string>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="7">
+       <widget class="QPushButton" name="pushButton_10">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>O</string>
+        </property>
+       </widget>
+      </item>
+      <item row="7" column="3">
+       <widget class="QPushButton" name="pushButton_40">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: salmon;
+border-style: solid;
+border-width: 1px;
+border-color: red;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Sr</string>
+        </property>
+       </widget>
+      </item>
+      <item row="10" column="12">
+       <widget class="QPushButton" name="pushButton_73">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Rn</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="7">
+       <widget class="QLabel" name="label_26">
+        <property name="text">
+         <string>VI</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="0">
+       <widget class="QLabel" name="label_4">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Fixed" vsizetype="Preferred">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="text">
+         <string>1</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="3">
+       <widget class="QLabel" name="label_22">
+        <property name="text">
+         <string>II</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="10" column="3">
+       <widget class="QPushButton" name="pushButton_67">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Hg</string>
+        </property>
+       </widget>
+      </item>
+      <item row="11" column="8">
+       <widget class="QPushButton" name="pushButton_79">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Bh</string>
+        </property>
+       </widget>
+      </item>
+      <item row="6" column="8">
+       <widget class="QPushButton" name="pushButton_37">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Br</string>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="10">
+       <widget class="QPushButton" name="pushButton_29">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Co</string>
+        </property>
+       </widget>
+      </item>
+      <item row="8" column="3">
+       <widget class="QPushButton" name="pushButton_50">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Cd</string>
+        </property>
+       </widget>
+      </item>
+      <item row="10" column="6">
+       <widget class="QPushButton" name="pushButton_70">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Bi</string>
+        </property>
+       </widget>
+      </item>
+      <item row="8" column="7">
+       <widget class="QPushButton" name="pushButton_54">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Te</string>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="3">
+       <widget class="QPushButton" name="pushButton_5">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: salmon;
+border-style: solid;
+border-width: 1px;
+border-color: red;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Be</string>
+        </property>
+       </widget>
+      </item>
+      <item row="7" column="10">
+       <widget class="QPushButton" name="pushButton_47">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Rh</string>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="3">
+       <widget class="QPushButton" name="pushButton_14">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: salmon;
+border-style: solid;
+border-width: 1px;
+border-color: red;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Mg</string>
+        </property>
+       </widget>
+      </item>
+      <item row="9" column="11">
+       <widget class="QPushButton" name="pushButton_65">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Pt</string>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="8">
+       <widget class="QPushButton" name="pushButton_19">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Cl</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="2">
+       <widget class="QLabel" name="label_21">
+        <property name="text">
+         <string>I</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="7">
+       <widget class="QPushButton" name="pushButton_18">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>S</string>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="6">
+       <widget class="QPushButton" name="pushButton_9">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>N</string>
+        </property>
+       </widget>
+      </item>
+      <item row="8" column="5">
+       <widget class="QPushButton" name="pushButton_52">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Sn</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="6">
+       <widget class="QLabel" name="label_25">
+        <property name="text">
+         <string>V</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="7">
+       <widget class="QPushButton" name="pushButton_26">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Cr</string>
+        </property>
+       </widget>
+      </item>
+      <item row="9" column="0" rowspan="2">
+       <widget class="QLabel" name="label_14">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Fixed" vsizetype="Preferred">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="text">
+         <string>6</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="9" column="10">
+       <widget class="QPushButton" name="pushButton_64">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Ir</string>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="0" rowspan="2">
+       <widget class="QLabel" name="label_10">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Fixed" vsizetype="Preferred">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="text">
+         <string>4</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="8" column="8">
+       <widget class="QPushButton" name="pushButton_55">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>I</string>
+        </property>
+       </widget>
+      </item>
+      <item row="11" column="6">
+       <widget class="QPushButton" name="pushButton_77">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Db</string>
+        </property>
+       </widget>
+      </item>
+      <item row="8" column="4">
+       <widget class="QPushButton" name="pushButton_51">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>In</string>
+        </property>
+       </widget>
+      </item>
+      <item row="7" column="2">
+       <widget class="QPushButton" name="pushButton_39">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: salmon;
+border-style: solid;
+border-width: 1px;
+border-color: red;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Rb</string>
+        </property>
+       </widget>
+      </item>
+      <item row="6" column="2">
+       <widget class="QPushButton" name="pushButton_31">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Cu</string>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="11">
+       <widget class="QPushButton" name="pushButton_30">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Ni</string>
+        </property>
+       </widget>
+      </item>
+      <item row="7" column="4">
+       <widget class="QPushButton" name="pushButton_41">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Y</string>
+        </property>
+       </widget>
+      </item>
+      <item row="10" column="1">
+       <widget class="QLabel" name="label_19">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Fixed" vsizetype="Preferred">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="text">
+         <string>9</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="10" column="5">
+       <widget class="QPushButton" name="pushButton_69">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Pb</string>
+        </property>
+       </widget>
+      </item>
+      <item row="11" column="0">
+       <widget class="QLabel" name="label_15">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Fixed" vsizetype="Preferred">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="text">
+         <string>7</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="8" column="6">
+       <widget class="QPushButton" name="pushButton_53">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Sb</string>
+        </property>
+       </widget>
+      </item>
+      <item row="7" column="7">
+       <widget class="QPushButton" name="pushButton_44">
+        <property name="styleSheet">
+         <string notr="true">text-align: right;
+background-color: lightblue;
+border-style: solid;
+border-width: 1px;
+border-color: blue;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Mo</string>
+        </property>
+       </widget>
+      </item>
+      <item row="7" column="0" rowspan="2">
+       <widget class="QLabel" name="label_13">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Fixed" vsizetype="Preferred">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="text">
+         <string>5</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="4">
+       <widget class="QPushButton" name="pushButton_7">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>B</string>
+        </property>
+       </widget>
+      </item>
+      <item row="6" column="7">
+       <widget class="QPushButton" name="pushButton_36">
+        <property name="styleSheet">
+         <string notr="true">text-align: left;
+background-color: yellow;
+border-style: solid;
+border-width: 1px;
+border-color: gold;
+padding: 2px;</string>
+        </property>
+        <property name="text">
+         <string>Se</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="2">
+       <layout class="QHBoxLayout" name="horizontalLayout_3">
+        <item>
+         <widget class="QLabel" name="label_29">
+          <property name="text">
+           <string>а</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_30">
+          <property name="text">
+           <string>б</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="1" column="3">
+       <layout class="QHBoxLayout" name="horizontalLayout_4">
+        <item>
+         <widget class="QLabel" name="label_32">
+          <property name="text">
+           <string>а</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_31">
+          <property name="text">
+           <string>б</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="1" column="4">
+       <layout class="QHBoxLayout" name="horizontalLayout_5">
+        <item>
+         <widget class="QLabel" name="label_33">
+          <property name="text">
+           <string>а</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_34">
+          <property name="text">
+           <string>б</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="1" column="5">
+       <layout class="QHBoxLayout" name="horizontalLayout_6">
+        <item>
+         <widget class="QLabel" name="label_38">
+          <property name="text">
+           <string>а</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_35">
+          <property name="text">
+           <string>б</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="1" column="6">
+       <layout class="QHBoxLayout" name="horizontalLayout_7">
+        <item>
+         <widget class="QLabel" name="label_39">
+          <property name="text">
+           <string>а</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_40">
+          <property name="text">
+           <string>б</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="1" column="7">
+       <layout class="QHBoxLayout" name="horizontalLayout_8">
+        <item>
+         <widget class="QLabel" name="label_41">
+          <property name="text">
+           <string>а</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_42">
+          <property name="text">
+           <string>б</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="1" column="8">
+       <layout class="QHBoxLayout" name="horizontalLayout_9">
+        <item>
+         <widget class="QLabel" name="label_43">
+          <property name="text">
+           <string>а</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_44">
+          <property name="text">
+           <string>б</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_10">
+      <item>
+       <layout class="QGridLayout" name="gridLayout_2">
+        <item row="4" column="0">
+         <widget class="QLabel" name="label_49">
+          <property name="text">
+           <string>Металл:</string>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="0">
+         <widget class="QLabel" name="label_47">
+          <property name="text">
+           <string>Полное название:</string>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="0">
+         <widget class="QLabel" name="label_48">
+          <property name="text">
+           <string>Атомная масса:</string>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="0">
+         <widget class="QLabel" name="label_46">
+          <property name="text">
+           <string>Порядковый номер:</string>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="0">
+         <widget class="QLabel" name="label_45">
+          <property name="text">
+           <string>Элемент:</string>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="1">
+         <widget class="QLabel" name="label_50">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="1">
+         <widget class="QLabel" name="label_51">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="1">
+         <widget class="QLabel" name="label_52">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="1">
+         <widget class="QLabel" name="label_53">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item row="4" column="1">
+         <widget class="QLabel" name="label_54">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <spacer name="horizontalSpacer">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>40</width>
+          <height>20</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <spacer name="verticalSpacer_2">
+      <property name="orientation">
+       <enum>Qt::Vertical</enum>
+      </property>
+      <property name="sizeHint" stdset="0">
+       <size>
+        <width>20</width>
+        <height>40</height>
+       </size>
+      </property>
+     </spacer>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout">
+      <item>
+       <layout class="QVBoxLayout" name="verticalLayout">
+        <item>
+         <widget class="QLineEdit" name="lineEdit">
+          <property name="text">
+           <string/>
+          </property>
+          <property name="placeholderText">
+           <string>Молекула</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLineEdit" name="lineEdit_2">
+          <property name="text">
+           <string>0</string>
+          </property>
+          <property name="readOnly">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="pushButton">
+          <property name="text">
+           <string>Вычеслитб</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <layout class="QVBoxLayout" name="verticalLayout_3">
+        <item>
+         <layout class="QHBoxLayout" name="horizontalLayout_2">
+          <item>
+           <widget class="QLineEdit" name="calcmol1"/>
+          </item>
+          <item>
+           <widget class="QLabel" name="label">
+            <property name="text">
+             <string>+</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLineEdit" name="calcmol2"/>
+          </item>
+         </layout>
+        </item>
+        <item>
+         <widget class="QLineEdit" name="lineEdit_3">
+          <property name="readOnly">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="pushButton_2">
+          <property name="text">
+           <string>Вычеслитб</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
